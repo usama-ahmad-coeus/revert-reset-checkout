@@ -1,0 +1,66 @@
+[33mcommit 4a791c7ab8d5b977b44770a4ddec5ee50fe3edb5[m[33m ([m[1;36mHEAD -> [m[1;32mdev1[m[33m, [m[1;31morigin/dev1[m[33m)[m
+Author: usama ahmad <usama.ahmad@coeus-solutions.de>
+Date:   Fri Sep 6 10:50:12 2019 +0500
+
+    com of dev1
+
+[33mcommit 177346334a33e28f04bdf311cc55650e57ecbdf7[m
+Author: usama ahmad <usama.ahmad@coeus-solutions.de>
+Date:   Fri Sep 6 10:38:23 2019 +0500
+
+    f66 of dev1
+
+[33mcommit 0b9642a12f3305786af9de74520fc5bceaffe7e4[m
+Author: usama ahmad <usama.ahmad@coeus-solutions.de>
+Date:   Fri Sep 6 10:01:10 2019 +0500
+
+    f10 of dev1
+
+[33mcommit 37dc7a6a00b6865763d283e2a823c0e6868d7bbe[m
+Author: usama ahmad <usama.ahmad@coeus-solutions.de>
+Date:   Fri Sep 6 09:57:18 2019 +0500
+
+    file11 of dev1
+
+[33mcommit 724671c02bb05640ffac0fb0ceabd30267375e19[m
+Author: usama ahmad <usama.ahmad@coeus-solutions.de>
+Date:   Fri Sep 6 09:56:06 2019 +0500
+
+    fil1e 10 of dev1 brrannch
+
+[33mcommit be51c8976244debfe9485db2b49b6f40494bb976[m[33m ([m[1;32mmaster[m[33m)[m
+Merge: 96d72fb 173d63c
+Author: usama ahmad <usama.ahmad@coeus-solutions.de>
+Date:   Fri Sep 6 09:42:10 2019 +0500
+
+    mergeof feature and master
+
+[33mcommit 96d72fbafa5827c5f409177c5baaac144af92a83[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: usama ahmad <usama.ahmad@coeus-solutions.de>
+Date:   Fri Sep 6 09:40:55 2019 +0500
+
+    master f5
+
+[33mcommit 57eb7f76a8c137f7db7844cc3cc6f2a4e8117791[m
+Author: usama ahmad <usama.ahmad@coeus-solutions.de>
+Date:   Fri Sep 6 09:37:24 2019 +0500
+
+    master f4
+
+[33mcommit 173d63cad7f8ec319ec588864ca72a7c8d4063d1[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m
+Author: usama ahmad <usama.ahmad@coeus-solutions.de>
+Date:   Fri Sep 6 09:33:45 2019 +0500
+
+    feature f3
+
+[33mcommit db41c83ca91e2123a723280c4d2197ed281247dd[m
+Author: usama ahmad <usama.ahmad@coeus-solutions.de>
+Date:   Fri Sep 6 09:32:14 2019 +0500
+
+    feature f2
+
+[33mcommit bffa278784c1efad8c1635edc335a0ac92726acf[m
+Author: usama ahmad <usama.ahmad@coeus-solutions.de>
+Date:   Fri Sep 6 09:30:17 2019 +0500
+
+    reset
